@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/UsergeTeam/Userge">
+    <a href="https://github.com/imudayveer/Userge">
         <img src="resources/userge.png" alt="Userge">
     </a>
     <br>
@@ -93,7 +93,7 @@ async def testing(message: Message):
 
   > Finally turn on the app and check the logs (settings -> view logs) :)
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UsergeTeam/Userge/tree/master)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imudayveer/Userge/tree/alpha)
 
 * **Other Method** 🔧
 
